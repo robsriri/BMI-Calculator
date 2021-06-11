@@ -6,6 +6,6 @@
     By running the python script code, the BMI web application opens locally in the browser and helps us to interact with the
     application via browser.
     This script is exactly the same as the sample provided in the documentation of PyWebIO. 
-    Click PyWebIO to access the document and try it !   
-   Check It Out - [PyWebIO](https://pywebio.readthedocs.io/en/latest/)
+    Click PyWebIO for reference to access the document then try it !   
+   Refer- [PyWebIO](https://pywebio.readthedocs.io/en/latest/)
     
